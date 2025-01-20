@@ -26,6 +26,7 @@
     "@auth/prisma-adapter": "^2.7.4",
     "@eslint/eslintrc": "^3",
     "@types/bcryptjs": "^2.4.6",
+    "@types/cookie": "^1.0.0",
     "@types/node": "^20.17.12",
     "@types/react": "^19.0.6",
     "@types/react-dom": "^19.0.3",
